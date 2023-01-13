@@ -1,0 +1,54 @@
+.edmMainContainer{
+    /* border: 1px solid; */
+
+}
+
+
+.titleContainer{
+    padding: 0 2% 0 2%;
+}
+
+.titleContainer h2{
+    font-size: 24px;
+}
+
+.edmbothContainer{
+    display: flex;
+    width: 100%;
+    padding: 1%;
+    /* border: 1px solid red; */
+}
+
+.abstractContainer{
+    /* border: 1px solid green; */
+    width: 50%;
+    padding: 1%;
+}
+
+.thumbnailContainer{
+    /* border: 1px solid yellow; */
+    width: 50%;
+    height: auto;
+    padding: 1%;
+}
+
+.thumbnailContainer img{
+    width: 80%;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+    .edmbothContainer{
+        width: 98%;
+    }
+
+    .abstractContainer abstract{
+        font-size: 12px;
+    }
+
+    .thumbnailContainer img{
+       width: 100%;
+    }
+}
