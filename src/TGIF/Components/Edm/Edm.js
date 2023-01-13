@@ -13,7 +13,7 @@ const Edm = () => {
             <div className='edmbothContainer'>
                 <div className='abstractContainer'>
                     <abstract>
-                       Hitesh As you look to align your key stakeholders with your 2023 finance strategy, it’s more important than ever for your strategic plans to be clear, measurable and easy to communicate.<br></br>
+                       As you look to align your key stakeholders with your 2023 finance strategy, it’s more important than ever for your strategic plans to be clear, measurable and easy to communicate.<br></br>
                         <b>Download Gartner's One-Page Finance Strategy Template</b> to generate a strategic plan for you and your team to define and convey:
                        
                     </abstract>
